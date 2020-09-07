@@ -249,9 +249,7 @@ body a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-  /*padding: 10px 100px;*/
- /*margin-top: 5em;*/
-  background-color: rgb(221, 221, 221);
+        background-color: rgb(221, 221, 221);
 }
 
 .container:after{
@@ -261,7 +259,6 @@ body a {
 	height: 100%;
 	left: 0;
 	top: 0;
-	/*background: rgb(221, 221, 221);*/
 	z-index: -1;
 	
 }
