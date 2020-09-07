@@ -249,8 +249,8 @@ body a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-  padding: 10px 100px;
-  margin-top: 5em;
+  /*padding: 10px 100px;*/
+ /*margin-top: 5em;*/
   background-color: rgb(221, 221, 221);
 }
 
