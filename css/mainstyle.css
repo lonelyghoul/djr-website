@@ -1,3 +1,4 @@
+
 a:focus{
   border: 1px solid rgb(29, 78, 170);                 
 }
@@ -13,9 +14,11 @@ body, html{
   margin: 0;
   padding: 0;
   max-width: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-size:2000px 875px; 
-  background-image: url("../images/webbackgroundsketch2000.png");
+  /* background-attachment: fixed; */
+  /* background-size:2000px 875px; */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/webbackgroundsketch2000.png");
   background-position: center;
   background-color: rgb(255, 255, 255);
 }
@@ -145,6 +148,7 @@ body, html{
   font-size: 30px;
   font-family: 'Quicksand', sans-serif;
   padding-top: 5.5em;
+  background-color:rgb(255, 255, 255);
 }
 
 h1{
@@ -175,6 +179,7 @@ p{
   font-size: 18px;
   line-height: 1.25em;
   color: black;
+  background-color: rgb(255, 255, 255);
 }
 
 .thumb {
@@ -331,5 +336,3 @@ footer{
   background: rgb(3, 65, 104);
   color: rgb(255, 255, 255);
 }
-
-
