@@ -147,7 +147,7 @@ body, html{
   text-align: center;
   font-size: 30px;
   font-family: 'Quicksand', sans-serif;
-  padding-top: 5.5em;
+  /*padding-top: 5.5em;*/
   background-color:rgb(255, 255, 255);
 }
 
@@ -211,7 +211,7 @@ body a {
   text-align: center;
   top: 0;
   left: 0;
-  /*background: rgba(0, 0, 0, .8);*/
+  background: rgba(0, 0, 0, .8);
 }
 
 .lightbox img {
