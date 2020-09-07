@@ -336,4 +336,4 @@ footer{
   color: rgb(255, 255, 255);
 }
 
-div, ul, li { background-color: inherit; }
+div, ul { background-color: inherit; }
