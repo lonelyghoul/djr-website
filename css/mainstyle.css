@@ -162,7 +162,8 @@ h3{
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding-top: 2em;
+  padding: 2em;
+  background-color: rgb(255, 255, 255);
 }
 
 .single-image{
