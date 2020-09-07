@@ -336,3 +336,9 @@ footer{
   background: rgb(3, 65, 104);
   color: rgb(255, 255, 255);
 }
+
+@media (max-width:640px){
+  h1, p{
+    color: white;
+  }
+}
