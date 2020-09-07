@@ -16,9 +16,12 @@ body, html{
   max-width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
+  
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/webbackgroundsketch2000.png");
   background-position: center;
+  background-color: rgb(255, 0, 0);
 }
+
 
 .navbar{
   display: flex;
@@ -334,4 +337,4 @@ footer{
   color: rgb(255, 255, 255);
 }
 
-ul, li { background-color: inherit; }
+.image-area, .wrapper h1, p{ background-color: inherit; }
